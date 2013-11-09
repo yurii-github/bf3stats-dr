@@ -1,5 +1,5 @@
 //--------------------------------------------------------
-// coding:     Yurii K. <y.korotia@hotmail.com>
+// coding:     Yurii K.
 // design:     stonegamts
 // clansite    http://darkresistance.net
 // version:    3.5
