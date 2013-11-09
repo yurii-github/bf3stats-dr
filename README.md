@@ -1,10 +1,9 @@
-
 clan signature for battlefield 3 on bf3stats.com
 
-You can use this code as your inspiration etc, but it would be a good tone if remain my name somewhere if use more than 50% of code.
+You can use this code as your inspiration etc, but it would be a good tone if you remain my name somewhere if you use more than 50% of code.
 
 
-NOTE! I do play in bf3 anymore. But it think you can apply this code for bf4 and so on, unless serverside uses node.js
+NOTE! I do not play in bf3 anymore. But it think you can apply this code for bf4 and so on, unless serverside uses node.js
 
 
 ____
