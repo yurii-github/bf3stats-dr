@@ -1,4 +1,4 @@
-</h1><h1>clan signature for battlefield 3 on bf3stats.com
+<h1>clan signature for battlefield 3 on bf3stats.com</h1>
 
 
 You can use this code as your inspiration etc, but it would be a good tone if you remain my name somewhere if you use more than 50% of code.
