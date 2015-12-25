@@ -6,7 +6,10 @@ You can use this code as your inspiration etc, but it would be a good tone if yo
 
 NOTE! I do not play in bf3 anymore. But i think you can apply this code for bf4 and so on untill serverside uses node.js
 
-NOTE! This code was created in 2012y, but i decided to share it in end of 2013y, almost after 2 years.
+NOTE! This code was created in 2012y, but i decided to share it in end of 2013y, almost after 2 years
+
+NOTE! It does not contain clan backround, only JS used on bf3stats. You must create your own backdround and apply your modified layout or use similar to this one I've used
+
 ____
 
 samples
